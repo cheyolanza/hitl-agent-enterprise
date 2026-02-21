@@ -1,6 +1,8 @@
 
 # HITL Agent Enterprise — Proyecto Final
 
+![Alt](image.png)
+
 ## Arquitectura de Agente Seguro con Human-in-the-Loop
 
 Este proyecto implementa un agente IA empresarial con:
