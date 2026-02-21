@@ -1,0 +1,62 @@
+2026-02-20 16:51:18,750 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'comprar 10 laptops'}]}
+2026-02-20 16:57:41,507 INFO HITL-Enterprise-Frontend AUDIT | user=xeio@mail.com | action=send_chat | payload={'user_id': 'xeio@mail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 10 laptops'}]}
+2026-02-20 16:59:06,211 INFO HITL-Enterprise-Frontend AUDIT | user=xeio@mail.com | action=send_chat | payload={'user_id': 'xeio@mail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 10 laptops'}]}
+2026-02-20 17:03:05,338 INFO HITL-Enterprise-Frontend AUDIT | user=xeio@mail.com | action=send_chat | payload={'user_id': 'xeio@mail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 10 laptops'}]}
+2026-02-20 17:04:10,605 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 10 laptops'}]}
+2026-02-20 17:06:41,313 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 10 laptops'}]}
+2026-02-20 17:07:11,400 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":10}
+2026-02-20 18:46:57,179 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":10}
+2026-02-20 18:47:10,696 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 10 laptops'}]}
+2026-02-20 18:47:19,436 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":10}
+2026-02-20 18:47:57,606 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:48:06,238 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:50:27,660 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:50:27,660 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:50:33,234 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:50:33,234 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:53:55,451 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:53:55,451 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:53:55,451 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:53:55,451 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:53:55,451 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:53:55,451 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:53:58,404 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:53:58,404 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:54:03,291 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:54:03,291 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:54:03,292 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:54:03,292 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:54:03,294 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:54:03,294 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:54:46,533 ERROR HITL-Enterprise-Frontend Error en ejecución: name 'payload' is not defined
+2026-02-20 18:54:46,533 ERROR HITL-Enterprise-Frontend Error en ejecución: name 'payload' is not defined
+2026-02-20 18:54:50,097 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:54:50,097 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:54:56,656 ERROR HITL-Enterprise-Frontend Error en ejecución: name 'payload' is not defined
+2026-02-20 18:54:56,656 ERROR HITL-Enterprise-Frontend Error en ejecución: name 'payload' is not defined
+2026-02-20 18:57:22,561 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:57:22,561 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:57:28,849 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: <module 'streamlit' from '/Users/xeio/development/learning/LLM/Modulo3/taller/venv/lib/python3.11/site-packages/streamlit/__init__.py'>
+2026-02-20 18:57:28,849 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: <module 'streamlit' from '/Users/xeio/development/learning/LLM/Modulo3/taller/venv/lib/python3.11/site-packages/streamlit/__init__.py'>
+2026-02-20 18:57:28,849 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:57:28,849 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:57:28,850 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:57:28,850 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:57:55,753 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:57:55,753 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=send_chat | payload={'user_id': 'cheyo.lanza@gmail.com', 'messages': [{'role': 'user', 'content': 'Crear orden de compra de 15 laptops'}]}
+2026-02-20 18:58:00,597 INFO HITL-Enterprise-Frontend llega hasta aqui
+2026-02-20 18:58:00,597 INFO HITL-Enterprise-Frontend llega hasta aqui
+2026-02-20 18:58:00,597 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: <module 'streamlit' from '/Users/xeio/development/learning/LLM/Modulo3/taller/venv/lib/python3.11/site-packages/streamlit/__init__.py'>
+2026-02-20 18:58:00,597 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: <module 'streamlit' from '/Users/xeio/development/learning/LLM/Modulo3/taller/venv/lib/python3.11/site-packages/streamlit/__init__.py'>
+2026-02-20 18:58:00,597 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:58:00,597 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:58:00,598 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:58:00,598 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:58:53,725 INFO HITL-Enterprise-Frontend llega hasta aqui
+2026-02-20 18:58:53,725 INFO HITL-Enterprise-Frontend llega hasta aqui
+2026-02-20 18:58:53,725 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: <module 'streamlit' from '/Users/xeio/development/learning/LLM/Modulo3/taller/venv/lib/python3.11/site-packages/streamlit/__init__.py'>
+2026-02-20 18:58:53,725 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: <module 'streamlit' from '/Users/xeio/development/learning/LLM/Modulo3/taller/venv/lib/python3.11/site-packages/streamlit/__init__.py'>
+2026-02-20 18:58:53,726 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:58:53,726 INFO HITL-Enterprise-Frontend [FRONTEND] Payload enviado a /execute: {"product_id":"laptop","quantity":15}
+2026-02-20 18:58:53,726 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
+2026-02-20 18:58:53,726 INFO HITL-Enterprise-Frontend AUDIT | user=cheyo.lanza@gmail.com | action=execute_action | payload={"product_id":"laptop","quantity":15}
