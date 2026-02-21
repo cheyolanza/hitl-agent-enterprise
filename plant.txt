@@ -1,0 +1,10 @@
+@startuml
+User -> UI
+UI -> API
+API -> OpenAI
+OpenAI -> API
+API -> UI : APPROVAL_REQUIRED
+User -> UI : approve
+UI -> API
+API -> Firebase
+@enduml
